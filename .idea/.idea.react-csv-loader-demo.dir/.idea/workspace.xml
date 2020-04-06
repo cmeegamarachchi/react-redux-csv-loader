@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c404d505-c40d-4144-89bf-73da0c1b8f14" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.react-csv-loader-demo.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.react-csv-loader-demo.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileSelector.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileSelector.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/App.tsx" />
+        <option value="$PROJECT_DIR$/src/store/initialState.js" />
+        <option value="$PROJECT_DIR$/src/store/rootReducer.js" />
+        <option value="$PROJECT_DIR$/src/store/actions.js" />
+        <option value="$PROJECT_DIR$/src/store/store.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers.ts" />
+        <option value="$PROJECT_DIR$/src/store/store.ts" />
+        <option value="$PROJECT_DIR$/src/index.tsx" />
+        <option value="$PROJECT_DIR$/src/CSVLoader.tsx" />
+        <option value="$PROJECT_DIR$/../sample-data/very-small.csv" />
+        <option value="$PROJECT_DIR$/src/store/types.ts" />
+        <option value="$PROJECT_DIR$/src/RecordViewer.tsx" />
+        <option value="$PROJECT_DIR$/src/store/actions.ts" />
+        <option value="$PROJECT_DIR$/src/FileSelector.tsx" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aAUN2GFf4WXFfFWkj3p8UfK6gb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c404d505-c40d-4144-89bf-73da0c1b8f14" name="Default Changelist" comment="" />
+      <created>1586177848916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586177848916</updated>
+      <workItem from="1586177851277" duration="3529000" />
+      <workItem from="1586210621812" duration="7235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="430" key="Rider.ProjectTemplateDialog.Size" timestamp="1586228479096">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="460" y="430" key="Rider.ProjectTemplateDialog.Size/0.23.3440.1337@0.23.3440.1337" timestamp="1586228479096" />
+    <state x="523" y="326" width="672" height="678" key="search.everywhere.popup" timestamp="1586213787583">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="523" y="326" width="672" height="678" key="search.everywhere.popup/0.23.3440.1337@0.23.3440.1337" timestamp="1586213787583" />
+  </component>
+</project>
