@@ -18,7 +18,7 @@ Loads local csv file into redux store
 
 `.\src\reducers.ts` Reducers
 
-`.\src\reducers.ts` Reducers
+`.\src\actions.ts` Actions
 
 to build `npm install`
 to run `npm run`
