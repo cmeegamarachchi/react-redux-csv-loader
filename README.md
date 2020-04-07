@@ -2,7 +2,7 @@
 
 Loads local csv file into redux store
 
-![](https://github.com/cmeegamarachchi/react-redux-csv-loader/data/diagram.png)
+![](https://github.com/cmeegamarachchi/react-redux-csv-loader/raw/master/data/diagram.png)
 
 `CSVLoader` is the container where all state related operations lives
 
