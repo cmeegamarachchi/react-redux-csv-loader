@@ -10,17 +10,18 @@ Loads local csv file into redux store
 
 `RecordViewer` display x number of records passed to it by `CSVLoader`
 
-`.\src\types.ts` Defines shape for redux-store
+`.\src\store\types.ts` Defines shape for redux-store
 
-`.\src\store.ts` The store
+`.\src\store\store.ts` The store
 
-`.\src\rootReducer.ts` Main reducer
+`.\src\store\rootReducer.ts` Main reducer
 
-`.\src\reducers.ts` Reducers
+`.\src\store\reducers.ts` Reducers
 
-`.\src\actions.ts` Actions
+`.\src\store\actions.ts` Actions
 
 to build `npm install`
+
 to run `npm run`
 
 Several test data files are located at `.\data`
